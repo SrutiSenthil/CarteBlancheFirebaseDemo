@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "936054263186",
+    "firebase_url": "https://fir-workshop-aea55.firebaseio.com",
+    "project_id": "fir-workshop-aea55",
+    "storage_bucket": "fir-workshop-aea55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936054263186:android:26fabff8bfcaef28",
+        "android_client_info": {
+          "package_name": "com.demo.carteblanchefirebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936054263186-agd302dijgrf3jecsk7ldu3bcue77udh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.demo.carteblanchefirebasedemo",
+            "certificate_hash": "DA357B4FFB8C23B524F0FEFE0652B73B873D16BF"
+          }
+        },
+        {
+          "client_id": "936054263186-5du79hdd905vjfip64bebpc4pmjfnlb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUPnluMJ3jVoiNOVkzL6ZRf_nWf1HWIwM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936054263186-5du79hdd905vjfip64bebpc4pmjfnlb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
